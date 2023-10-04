@@ -1,5 +1,5 @@
 "use strict";
-let test = (num1, num2, num3, soma) => {
-    soma = num1 + num2 + num3;
+let test = (num1, num2) => {
+    return num1 + num2 
 };
-console.log(soma(3+3+3))
+console.log(soma(3+3))

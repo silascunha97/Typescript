@@ -30,7 +30,7 @@ function onboarding02(pessoa: Pessoa){
     )
 }
 
-console.log(onboarding02({nome: 'Silas Augusto', funcao: "Desenvolvedor"}))
+//console.log(onboarding02({nome: 'Silas Augusto', funcao: "Desenvolvedor"}))
 
 type Pessoa04 = {
     nome: string;
